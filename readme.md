@@ -1,6 +1,6 @@
-#Setup
+# Setup
 
-#Windows
+# Windows
 	- Install 32 bit MinGW: https://sourceforge.net/projects/mingw/files/latest/download?source=files
 	- Install Code::Blocks: http://www.codeblocks.org/downloads/26
 	- Download and extract 32bit SFML to a working directory: https://www.sfml-dev.org/download/sfml/2.4.2/
